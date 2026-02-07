@@ -21,7 +21,7 @@ Using a multi-objective genetic solver, I identified a "hidden" regime (S5) wher
 - **Innovation:** "Deterministic Substitution"—trading random breakdowns for controlled, optimized Preventive Maintenance (PM) stops.
 - **Stress Test:** The S5 policy proved robust under **±20% parameter drift** (aging equipment).
 - **Tech Stack:** AnyLogic (DES), Java, OptQuest, Monte Carlo Verification (N=30).
-- **Technical Evidence:** See the [Digital-Twin-Logistics Folder](./Digital-Twin-Logistics) for raw results and the [Technical Validation Report](./Digital-Twin-Logistics/Technical_Validation_Report.pdf).
+- **Technical Evidence:** See the [Digital-Twin-Logistics Folder](./Digital-Twin-Logistics) for raw results and the [Technical Validation Report](./Digital-Twin-Logistics/Technical_Validation_Report.pdf). Also, This methodology and its stress-test data are the basis for the research paper: Khademi, M. (2026). "Resilience Under Parameter Drift: A Stress-Test Analysis of Industry 5.0 Digital Twins," submitted to the 23rd IFAC World Congress.
 
 ---
 
