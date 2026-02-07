@@ -1,0 +1,33 @@
+// PM end
+M3_inMaintenance = false;
+cycles_M3 = 0;
+
+// restore capacity
+resM3.set_capacity(CAP_M3);   // or resX_pool.set_capacity(CAP_X)
+
+logSensorRow("MAINT_" + runID, "M3", "PM_end",
+    (int) Queue_M3.size(), 0.0, "NA", 0);
+
+M3_failed_pending = false; // safety
+
+if (DEBUG_M3) traceln("### M3 PM_END at t=" + time()
+  + " cap=" + CAP_M3
+  + " cycles=" + cycles_M3);
+// schedule next failure request (ONLY this)
+scheduleNextFail_M3();
+
+double start = lastPMTime_M3;
+double end   = time();
+double dt_full = (start >= 0) ? (end - start) : 0;
+
+double dt_meas = 0;
+if (end > WARMUP && start >= 0) {
+  dt_meas = end - Math.max(start, WARMUP);
+  if (dt_meas < 0) dt_meas = 0;
+}
+
+// compute dt_full, dt_meas using lastPMTime_M1 ...
+downPM_M3 += dt_full;
+downPM_M3_meas += dt_meas;
+
+lastPMTime_M3 = -1;   // optional reset
