@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Featured Project: Maintenance-Aware Digital Twin (MADO)
-*Research submitted to the Journal of Computers and Industrial Engineering*
+*Research submitted to the Journal of Computers and Industrial Engineering & 23rd IFAC World Congress*
 
 This project addresses the **vulnerability of static efficiency**—where traditional deterministic models fail under stochastic shop-floor disruptions. I developed a high-fidelity **Digital Twin** in AnyLogic to identify production policies that balance profit, energy efficiency, and operational resilience.
 
