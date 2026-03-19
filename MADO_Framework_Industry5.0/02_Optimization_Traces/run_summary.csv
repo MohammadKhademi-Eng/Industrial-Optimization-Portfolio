@@ -1,0 +1,2 @@
+runID,mode,seedUsed,produced,good,bad,avgLead,avgTard,energy_kWh,co2_kg,energyPerPart_kWh,co2PerPart_kg,revenue_total,cost_total,tardPenalty_total,profit,cost_energy_calc,cost_material_calc,cost_labor_calc,cost_total_calc
+287197,FLOW,1,38,38,0,762.6302,25.2100,85.032875,25.509863,2.237707,0.671312,3040.0000,401.2582,47.8990,2590.8428,21.2582,380.0000,0.0000,401.2582
