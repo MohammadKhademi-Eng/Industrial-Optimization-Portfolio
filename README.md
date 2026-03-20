@@ -1,53 +1,38 @@
-# Mohammad Khademi | Dual M.Sc. Engineering Portfolio 
-**Specialization:** Digital Twins • Stochastic Optimization • Resilient Logistics • Industrial Engineering • Mining Engineering
-**Location:** Genoa, Italy 
+# MADO Framework: Maintenance-Aware Digital Twin for Industry 5.0
+
+This repository contains the data and architectural framework for the **Maintenance-Aware Digital Twin (MADO)**. This research focuses on optimizing production systems through the integration of stochastic maintenance triggers and real-time Digital Twin synchronization.
 
 ---
 
-## 🚀 Featured Project: Maintenance-Aware Digital Twin (MADO)
-*Research submitted to the Journal of Computers and Industrial Engineering & 23rd IFAC World Congress*
-
-This project addresses the **vulnerability of static efficiency**—where traditional deterministic models fail under stochastic shop-floor disruptions. I developed a high-fidelity **Digital Twin** in AnyLogic to identify production policies that balance profit, energy efficiency, and operational resilience.
-
-### **The Breakthrough: Scenario S1 vs. Scenario S5**
-Using a multi-objective genetic solver, I identified a "hidden" regime (S5) where penalizing energy waste acts as a heuristic to stabilize production flow and mitigate the impact of random machine failures.
-
-| Key Performance Indicator | Baseline (Profit-Only) | Optimized (Sustainability-Weighted) | Improvement |
-| :--- | :--- | :--- | :--- |
-| **Mean Profit (Robust)** | €2,720.88 | **€3,099.94** | **+13.9%** |
-| **Throughput** | 39.5 units | **45.1 units** | **+14.1%** |
-| **System Resilience** | High Instability | **Validated Stable Trajectory** | **Proven** |
-
-- **Innovation:** "Deterministic Substitution"—trading random breakdowns for controlled, optimized Preventive Maintenance (PM) stops.
-- **Stress Test:** The S5 policy proved robust under **±20% parameter drift** (aging equipment).
-- **Tech Stack:** AnyLogic (DES), Java, OptQuest, Monte Carlo Verification (N=30).
-- **Technical Evidence:** See the [Digital-Twin-Logistics Folder](./Digital-Twin-Logistics) for raw results and the [Technical Validation Report](./Digital-Twin-Logistics/Technical_Validation_Report.pdf). Also, This methodology and its stress-test data are the basis for the research paper: Khademi, M. (2026). "Resilience Under Parameter Drift: A Stress-Test Analysis of Industry 5.0 Digital Twins," submitted to the 23rd IFAC World Congress.
+## 👨‍🔬 About the Researcher
+**Mohammad Khademi** Dual M.Sc. Industrial Engineer specializing in Systems Optimization and Digital Twins.
+* **M.Sc. Safety Engineering (Transport/Logistics)** | University of Genoa, Italy
+* **M.Sc. Mining Engineering** | University of Kashan, Iran
+* **Research Focus:** Stochastic Resilience, Industry 5.0, and Meta-Heuristic Optimization.
 
 ---
 
-## ⛏️ Featured Project: Meta-Heuristic Mining Optimization
-*Published Master's Thesis (University of Kashan)* | [View Open Access on SSRN](https://ssrn.com/abstract=5186606)
+## 🚀 Key Research Impacts
+* **Economic Gain:** Achieved a **+13.9% increase in total profit**.
+* **Operational Efficiency:** Improved system throughput by **+14.1%**.
+* **Resilience:** Validated system stability under **±20% stochastic parameter drift** (IFAC 2026 Study).
 
-Optimizing cut-off grades for Lead-Zinc deposits to maximize Net Present Value (NPV) through custom-built Genetic Algorithms.
+## 📁 Repository Structure
+* **[01_Models](./01_Models):** System architecture and logic overview (AnyLogic/Java).
+* **[02_Optimization_Traces](./02_Optimization_Traces):** Raw performance data and scenario comparisons (S1-S6).
+* **[03_Verification_Samples](./03_Verification_Samples):** Statistical validation via Monte Carlo simulations ($N=30$).
+* **[04_Stress_Tests](./04_Stress_Tests):** Resilience analysis under parameter variation and environmental uncertainty.
 
-### **Key Technical Innovations**
-- **Simultaneous Stockpiling:** Extended mine life by **6 years** by implementing stockpiling concurrently with mining operations.
-- **NPV Augmentation:** Achieved a **9.15% increase** in NPV compared to traditional models through meta-heuristic search.
-- **Custom Engine:** Built a 29-variable Genetic Algorithm in MATLAB using Arithmetic Crossover and Roulette Wheel selection.
-
-- **Tech Stack:** MATLAB, Genetic Algorithm, Lane Economic Model.
-- **Source Code:** See the [Mining-Optimization Folder](./Mining-Optimization) for the full MATLAB source scripts.
-
----
-
-## 🛠️ Expertise & Technical Skills
-- **Simulation Engineering:** Expert in **AnyLogic (DES/ABS)** with custom Java logic injection.
-- **Optimization Science:** Genetic Algorithms, Scatter Search, OptQuest, Multi-Criteria Decision Making (MCDM).
-- **Industrial Analytics:** Monte Carlo Simulation, Statistical Hypothesis Testing (ANOVA/Kruskal-Wallis), Sensitivity Analysis.
-- **Core Engineering:** Safety Engineering for Logistics, Preventive Maintenance Planning, Mining Production Optimization.
+## 🛠 Tech Stack
+* **Simulation:** AnyLogic (Discrete Event & Agent-Based Modeling)
+* **Logic/Scripting:** Java
+* **Optimization:** OptQuest (Scatter Search & Tabu Search)
+* **Analysis:** MATLAB & Excel
+* **Documentation:** LaTeX
 
 ---
 
-## 📬 Contact for Ph.D. Opportunities, Industrial R&D Roles, or Collaboration
-- **Email:** [mohammad.khademimin@gmail.com](mailto:mohammad.khademimin@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohammadkhademi](https://www.linkedin.com/in/mohammadkhademi/)
+## 📧 Contact & Portfolio
+* **LinkedIn:** [linkedin.com/in/mohammadkhademi/](https://linkedin.com/in/mohammadkhademi/)
+* **GitHub Profile:** [github.com/MohammadKhademi-Eng](https://github.com/MohammadKhademi-Eng)
+* **Full Portfolio:** [Industrial Optimization Projects](https://github.com/MohammadKhademi-Eng/Industrial-Optimization-Portfolio)
