@@ -27,7 +27,12 @@ Using a multi-objective genetic solver, I identified a "hidden" regime (S5) wher
     - [**04_Stress_Tests**](./04_Stress_Tests): Stochastic Resilience & Parameter Variation data.
 
 - **Research Publication:** This methodology is the basis for: Khademi, M. (2026). *"Resilience Under Parameter Drift: A Stress-Test Analysis of Industry 5.0 Digital Twins,"* submitted to the 23rd IFAC World Congress.
+  
+### Autonomous Edge AI Actuation (Video Demonstration)
 
+https://github.com/user-attachments/assets/365e53a5-8dfc-465e-94b0-38b01f11b0dd
+
+This video demonstrates the MADO framework in action. The Discrete Event Simulation (left) is subjected to stochastic parameter drift. A custom Neuro-Symbolic Python bridge filters the telemetry and triggers a local Llama 3 LLM. When critical drift is detected, the AI physically actuates the 3D environment to shut down the bottleneck and generates Explainable AI (XAI) reasoning for the operators.
 ---
 
 ## ⛏️ Featured Project: Meta-Heuristic Mining Optimization
