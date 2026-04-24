@@ -12,7 +12,9 @@
 ### 🎥 V2.0 Live Demonstration: Real-Time Swarm Arbitration (2ms Latency)
 Watch the Phase B Neuro-Symbolic architecture mitigate a forced $\pm 20\%$ stochastic parameter drift in single-digit milliseconds:
 
-[DRAG AND DROP YOUR NEW MADO_V2_NeuroSymbolic_Edge.mp4 HERE]
+
+
+
 
 ---
 
