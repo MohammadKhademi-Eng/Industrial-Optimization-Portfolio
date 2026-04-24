@@ -9,10 +9,8 @@
 
 **A Maintenance-Aware Digital Twin (Explainable) built for extreme stochastic resilience and 2026 EU AI Act Compliance.**
 
-### 🎥 V2.0 Live Demonstration: Real-Time Swarm Arbitration (2ms Latency)
-Watch the Phase B Neuro-Symbolic architecture mitigate a forced $\pm 20\%$ stochastic parameter drift in single-digit milliseconds:
-
 **[🎥 WATCH / DOWNLOAD THE V2.0 DEMONSTRATION VIDEO HERE](https://github.com/MohammadKhademi-Eng/Industrial-Optimization-Portfolio/blob/main/MADO_Framework_Industry5.0/05_System_Demonstration/MADO_V2_NeuroSymbolic_Edge.mp4)**
+Watch the Phase B Neuro-Symbolic architecture mitigate a forced $\pm 20\%$ stochastic parameter drift in single-digit milliseconds.
 
 *(Note: Due to the high-quality 17MB file size, GitHub's web preview may not load. If you see an error screen, simply click the blue **"View raw"** link to instantly view or download the demonstration).*
 
