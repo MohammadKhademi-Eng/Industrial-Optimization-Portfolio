@@ -14,8 +14,6 @@ Watch the Phase B Neuro-Symbolic architecture mitigate a forced $\pm 20\%$ stoch
 
 
 
-
-
 ---
 
 ### 🔬 Core Technical Innovation
@@ -42,11 +40,11 @@ This Edge AI architecture is built upon my core resilience framework. Using a mu
 ---
 
 ### 📁 Technical Evidence & Repository Structure
-- [**01_Models**](./01_Models): High-resolution Architecture & Logic Map (AnyLogic/Java/Python).
-- [**02_Optimization_Traces**](./02_Optimization_Traces): Raw CSV performance data for S1–S6.
-- [**03_Verification_Samples**](./03_Verification_Samples): Statistical Monte Carlo Validation ($N=30$).
-- [**04_Stress_Tests**](./04_Stress_Tests): Stochastic Resilience & Parameter Variation data.
-- **05_Demonstrations**: Video captures of both Phase A (LLM Routing) and Phase B (Neuro-Symbolic GA Routing).
+- [**01_Models**](./MADO_Framework_Industry5.0/01_Models): High-resolution Architecture & Logic Map (AnyLogic/Java/Python).
+- [**02_Optimization_Traces**](./MADO_Framework_Industry5.0/02_Optimization_Traces): Raw CSV performance data for S1–S6.
+- [**03_Verification_Samples**](./MADO_Framework_Industry5.0/03_Verification_Samples): Statistical Monte Carlo Validation ($N=30$).
+- [**04_Stress_Tests**](./MADO_Framework_Industry5.0/04_Stress_Tests): Stochastic Resilience & Parameter Variation data.
+- [**05_Demonstrations**](./MADO_Framework_Industry5.0/05_System_Demonstration): Video captures of both Phase A (LLM Routing) and Phase B (Neuro-Symbolic GA Routing).
 
 ---
 
