@@ -66,8 +66,7 @@ Optimizing cut-off grades for Lead-Zinc deposits to maximize Net Present Value (
 - **Custom Engine:** Built a 29-variable Genetic Algorithm in MATLAB using Arithmetic Crossover and Roulette Wheel selection.
 
 - **Tech Stack:** MATLAB, Genetic Algorithm, Lane Economic Model.
-- **Source Code:** Refer to my dedicated [Mining-Optimization Repository](https://github.com/MohammadKhademi-Eng/Mining-Optimization-Project) for full source scripts.
-
+- **Source Code:** Refer to my dedicated [Mining-Optimization Repository](https://github.com/MohammadKhademi-Eng/Mining-Optimization) for full source scripts.
 ---
 
 ## 🛠️ Expertise & Technical Skills
