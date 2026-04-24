@@ -67,6 +67,7 @@ Optimizing cut-off grades for Lead-Zinc deposits to maximize Net Present Value (
 
 - **Tech Stack:** MATLAB, Genetic Algorithm, Lane Economic Model.
 - **Source Code:** Refer to my dedicated [Mining-Optimization Repository](https://github.com/MohammadKhademi-Eng/Mining-Optimization) for full source scripts.
+
 ---
 
 ## 🛠️ Expertise & Technical Skills
