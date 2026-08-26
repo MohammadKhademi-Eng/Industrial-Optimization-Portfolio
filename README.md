@@ -70,6 +70,14 @@ Optimizing cut-off grades for Lead-Zinc deposits to maximize Net Present Value (
 - **Source Code:** Refer to my dedicated [Mining-Optimization Folder](https://github.com/MohammadKhademi-Eng/Industrial-Optimization-Portfolio/tree/main/Mining-Optimization) for full source scripts.
 ---
 
+## 📚 Publications & Preprints
+
+- **Khademi, M.**, & Revetria, R. (2026). *Robust Control and Stochastic Stability Analysis of Industry 5.0 Digital Twins under Model Uncertainty*. Accepted for presentation at the **23rd IFAC World Congress 2026** (Paper ID: 3969). SSRN Preprint. [![SSRN](https://img.shields.io/badge/SSRN-Preprint%207341818-blue?logo=elsevier)](https://papers.ssrn.com/abstract=7341818) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=LzU_LUUAAAAJ)
+
+- **Khademi, M.** (2025). *Enhancing Economic Value: Finding Optimal Cut-Off Grades Through Meta-Heuristic Algorithms in Stockpile Management Scenarios*. SSRN Preprint. [![SSRN](https://img.shields.io/badge/SSRN-Preprint%205186606-blue?logo=elsevier)](https://papers.ssrn.com/abstract=5186606)
+
+---
+
 ## 🛠️ Expertise & Technical Skills
 - **Simulation Engineering:** Expert in **AnyLogic (DES/ABS)** with custom Java logic injection.
 - **Optimization Science:** Genetic Algorithms, Scatter Search, OptQuest, Multi-Criteria Decision Making (MCDM).
@@ -78,7 +86,8 @@ Optimizing cut-off grades for Lead-Zinc deposits to maximize Net Present Value (
 
 ---
 
-## 📬 Contact 
+### 📬 Contact & Profiles
 **Seeking Ph.D. Opportunities and Industrial R&D Roles**
-- **Email:** [mohammad.khademimin@gmail.com](mailto:mohammad.khademimin@gmail.com)
+- **Google Scholar:** [Mohammad Khademi](https://scholar.google.com/citations?user=LzU_LUUAAAAJ)
 - **LinkedIn:** [linkedin.com/in/mohammadkhademi](https://www.linkedin.com/in/mohammadkhademi/)
+- **Email:** [mohammad.khademimin@gmail.com](mailto:mohammad.khademimin@gmail.com)
