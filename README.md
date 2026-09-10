@@ -38,6 +38,20 @@ This Edge AI architecture is built upon my core resilience framework. Using a mu
 | **Throughput** | 39.5 units | **45.1 units** | **+14.1%** |
 | **System Resilience** | High Instability | **Validated Stable Trajectory** | **Proven** |
 
+### 📊 MADO-X Empirical Stress-Test Performance Matrix (Runs 0–3)
+
+*Validated empirical results for the MADO-X framework across four operational profiles, ensuring full **2026 EU AI Act compliance (Articles 12 & 13)** via immutable JSONL audit logging:*
+
+| Scenario ID | Operational Profile | Throughput | OEE (%) | Energy Intensity | Economic Profit | Regulatory Status |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| **Run 0** | Nominal Baseline | **173 Parts** | 58.07% | 11.19 kWh/part | $7,970.00 | Fully Compliant (JSONL Audit) |
+| **Run 1** | Scenario A ($M_5$ Overload) | **167 Parts** | 57.84% | 11.65 kWh/part | $7,670.00 | Fully Compliant (JSONL Audit) |
+| **Run 2** | Scenario B ($M_2\text{--}M_3$ Gridlock) | **135 Parts** | 57.24% | 14.55 kWh/part | $6,150.00 | Fully Compliant (JSONL Audit) |
+| **Run 3** | Scenario C (Upstream Noise) | **149 Parts** | 57.48% | 13.13 kWh/part | $6,810.00 | Fully Compliant (JSONL Audit) |
+
+#### 📈 Performance Visualization
+![MADO-X Performance Comparison](https://raw.githubusercontent.com/MohammadKhademi-Eng/Industrial-Optimization-Portfolio/main/MADO-X_Resilient_CPPS_Validation/figures/figure_1_throughput_profit.png)
+
 ---
 
 ### 📁 Technical Evidence & Repository Structure
