@@ -1,0 +1,19 @@
+{
+    "timestamp": 350.0,
+    "simulation_status": "FINISHED",
+    "run_id": 3,
+    "throughput": 149,
+    "oee": 57.48,
+    "energy_intensity": 13.13,
+    "profit": 6810.0,
+    "m1_queue": 0,
+    "m1_utilization": 1.0,
+    "m2_queue": 0,
+    "m2_utilization": 1.0,
+    "m3_queue": 0,
+    "m3_utilization": 1.0,
+    "m4_queue": 0,
+    "m4_utilization": 1.0,
+    "m5_queue": 0,
+    "m5_utilization": 1.0
+}

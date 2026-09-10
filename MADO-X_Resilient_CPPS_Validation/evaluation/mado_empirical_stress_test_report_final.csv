@@ -1,0 +1,5 @@
+Scenario ID,Operational Profile,Tracked Cycles,AI Interventions,Trigger Rate (%),Primary Bottlenecks,Throughput (Parts),OEE (%),Energy Intensity (kWh/part),Economic Profit ($),System Stability
+Run 0,Run 0: Nominal Full MADO-X,33,7,21.2,"M2, M3, M4, M5",173,58.07%,11.19,7970.0,Robust / 100% Empirical
+Run 1,Run 1: Scenario A (M5 Overload),40,7,17.5,"M2, M3, M4, M5",167,57.84%,11.65,7670.0,Robust / 100% Empirical
+Run 2,Run 2: Scenario B (M2-M3 Gridlock),13,8,61.5,"M2, M3, M4, M5",135,57.24%,14.55,6150.0,Robust / 100% Empirical
+Run 3,Run 3: Scenario C (Upstream Noise),33,8,24.2,"M2, M3, M4, M5",149,57.48%,13.13,6810.0,Robust / 100% Empirical
