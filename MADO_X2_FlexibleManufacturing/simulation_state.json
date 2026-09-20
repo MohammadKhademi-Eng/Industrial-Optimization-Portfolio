@@ -1,0 +1,10 @@
+{
+    "timestamp": 289.0,
+    "q_A": 0,
+    "q_B": 1,
+    "q_oven": 4,
+    "u_oven": 1.0,
+    "agv_idle": 0,
+    "simulation_status": "RUNNING",
+    "run_id": 1
+}
