@@ -71,7 +71,10 @@ https://github.com/user-attachments/assets/365e53a5-8dfc-465e-94b0-38b01f11b0dd
 ---
 
 ## ⛏️ Featured Project: Meta-Heuristic Mining Optimization
-*Published Master's Thesis (University of Kashan)* | [View Open Access on SSRN](https://ssrn.com/abstract=5186606)
+
+- 🚀 **[MADO-X3: Scaled FMS & Lyapunov Digital Twin](MADO-X3_Scaled_FMS_Lyapunov_CPPS)** — Sovereign Edge-AI, AnyLogic 10-Stage FMS, Real-Time Pareto Optimization, & EU AI Act Compliance.
+- 
+- Published Master's Thesis (University of Kashan)* | [View Open Access on SSRN](https://ssrn.com/abstract=5186606)
 
 Optimizing cut-off grades for Lead-Zinc deposits to maximize Net Present Value (NPV) through custom-built Genetic Algorithms.
 
