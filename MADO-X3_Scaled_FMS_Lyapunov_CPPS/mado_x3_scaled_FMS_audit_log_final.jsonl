@@ -1,0 +1,30 @@
+{"timestamp": 0.0, "event_type": "SYSTEM_INIT", "details": {"status": "Initializing MADO-X3 Supervisor with RAG, Pydantic v2 & Lyapunov"}}
+{"timestamp": 0.0, "event_type": "PLC_CONNECTED", "details": {"url": "opc.tcp://127.0.0.1:4840/freeopcua/server/"}}
+{"timestamp": 21.96, "event_type": "ALARM_TRIGGERED", "details": {"q_staging": 15, "threshold": 15}}
+{"timestamp": 21.96, "event_type": "RAG_RECOVERY_HIT", "details": {"recommendation": "Prioritize staging buffer clearing by redirecting excess production to downstream processes."}}
+{"timestamp": 21.96, "event_type": "PARETO_OPTIMIZATION_EVALUATED", "details": {"f1_throughput": 0.0, "f2_specific_energy": Infinity, "pareto_score": 0.0, "dV_dt": 15.0, "is_stable": false}}
+{"timestamp": 21.96, "event_type": "HITL_AUTHORIZED", "details": {"action": "actuated", "pareto_score": 0.0}}
+{"timestamp": 21.96, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": true, "gate_cluster_A": true, "gate_cluster_B": true, "reset_nominal": false}}
+{"timestamp": 87.12, "event_type": "BUFFER_RECOVERY", "details": {"q_staging": 0, "action": "restored_nominal"}}
+{"timestamp": 87.12, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": false, "gate_cluster_A": false, "gate_cluster_B": false, "reset_nominal": true}}
+{"timestamp": 153.0, "event_type": "ALARM_TRIGGERED", "details": {"q_staging": 15, "threshold": 15}}
+{"timestamp": 153.0, "event_type": "RAG_RECOVERY_HIT", "details": {"recommendation": "Prioritize staging buffer clearing by redirecting excess production to downstream processes."}}
+{"timestamp": 153.0, "event_type": "PARETO_OPTIMIZATION_EVALUATED", "details": {"f1_throughput": 117.6470588235294, "f2_specific_energy": 0.22988, "pareto_score": 0.988235294117647, "dV_dt": 15.0, "is_stable": false}}
+{"timestamp": 153.0, "event_type": "HITL_AUTHORIZED", "details": {"action": "actuated", "pareto_score": 0.988235294117647}}
+{"timestamp": 153.0, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": true, "gate_cluster_A": true, "gate_cluster_B": true, "reset_nominal": false}}
+{"timestamp": 186.84, "event_type": "BUFFER_RECOVERY", "details": {"q_staging": 4, "action": "restored_nominal"}}
+{"timestamp": 186.84, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": false, "gate_cluster_A": false, "gate_cluster_B": false, "reset_nominal": true}}
+{"timestamp": 232.92, "event_type": "ALARM_TRIGGERED", "details": {"q_staging": 16, "threshold": 15}}
+{"timestamp": 232.92, "event_type": "RAG_RECOVERY_HIT", "details": {"recommendation": "Prioritize staging buffer clearing by redirecting excess production to downstream processes."}}
+{"timestamp": 232.92, "event_type": "PARETO_OPTIMIZATION_EVALUATED", "details": {"f1_throughput": 216.38330757341578, "f2_specific_energy": 0.09098657142857143, "pareto_score": 1.0, "dV_dt": 64.0, "is_stable": false}}
+{"timestamp": 232.92, "event_type": "HITL_AUTHORIZED", "details": {"action": "actuated", "pareto_score": 1.0}}
+{"timestamp": 232.92, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": true, "gate_cluster_A": true, "gate_cluster_B": true, "reset_nominal": false}}
+{"timestamp": 270.0, "event_type": "BUFFER_RECOVERY", "details": {"q_staging": 3, "action": "restored_nominal"}}
+{"timestamp": 270.0, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": false, "gate_cluster_A": false, "gate_cluster_B": false, "reset_nominal": true}}
+{"timestamp": 353.16, "event_type": "ALARM_TRIGGERED", "details": {"q_staging": 15, "threshold": 15}}
+{"timestamp": 353.16, "event_type": "RAG_RECOVERY_HIT", "details": {"recommendation": "Prioritize staging buffer clearing by redirecting excess production to downstream processes."}}
+{"timestamp": 353.16, "event_type": "PARETO_OPTIMIZATION_EVALUATED", "details": {"f1_throughput": 254.84199796126398, "f2_specific_energy": 0.07470056, "pareto_score": 1.0, "dV_dt": 30.0, "is_stable": false}}
+{"timestamp": 353.16, "event_type": "HITL_AUTHORIZED", "details": {"action": "actuated", "pareto_score": 1.0}}
+{"timestamp": 353.16, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": true, "gate_cluster_A": true, "gate_cluster_B": true, "reset_nominal": false}}
+{"timestamp": 402.84, "event_type": "BUFFER_RECOVERY", "details": {"q_staging": 2, "action": "restored_nominal"}}
+{"timestamp": 402.84, "event_type": "MQTT_DISPATCH", "details": {"speed_boost": false, "gate_cluster_A": false, "gate_cluster_B": false, "reset_nominal": true}}
